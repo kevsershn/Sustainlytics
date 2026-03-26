@@ -1,4 +1,4 @@
-# Proje Adı: EcoMatch AI 🌿📊
+# Proje Adı:Sustainlytics🌿📊
 **"Sürdürülebilir Ekonomi ve Akıllı Tedarik Zinciri Optimizasyon Platformu"**
 
 ## 🔍 1. Problem: Ne Çözüyorum?
